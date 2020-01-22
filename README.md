@@ -1,3 +1,3 @@
 # marvel-mobile
 
-yarn start
+expo start
